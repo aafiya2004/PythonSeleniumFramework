@@ -1,0 +1,48 @@
+{
+  "data1": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce",
+      "item-name": "Sauce Labs Bike Light",
+      "first_name": "Aafiya",
+      "last_name": "Farheen",
+      "pin_code": "600012"
+    }
+  ],
+  "data2": [
+    {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    }
+  ],
+  "data3": [
+    {
+      "username": "problem_user",
+      "password": "secret_sauce",
+      "item-name": "Sauce Labs Bike Light",
+      "first_name": "Michael",
+      "last_name": "Clarke",
+      "pin_code": "123456"
+    }
+  ],
+  "data4": [
+    {
+      "username": "performance_glitch_user",
+      "password": "secret_sauce",
+      "item-name": "Sauce Labs Bike Light",
+      "first_name": "Jessica",
+      "last_name": "Fernandes",
+      "pin_code": "600018"
+    }
+  ],
+  "data5": [
+    {
+      "username": "error_user",
+      "password": "secret_s",
+      "item-name": "Sauce Labs Bike Light",
+      "first_name": "Isha",
+      "pin_code": "600009"
+
+    }
+  ]
+}
